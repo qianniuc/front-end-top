@@ -7,6 +7,9 @@
     - 尤雨溪 [回应『Angular有哪些地方比Vue更优秀？』](https://zhuanlan.zhihu.com/p/28284087)
     - 大漠穷秋 [为什么只会Vue的都是前端小白？](https://zhuanlan.zhihu.com/p/28282605)
     - 尤雨溪 wow, just wow
+### 7月
+* 2017 JavaScript中国开发者大会
+    - [演讲文档](http://2017.jsconf.cn/#schedule)
 ## 2016
 ### 12月
 * 真阿当与尤雨溪、玉伯、贺师俊、winter、司徒正美、月影等众牛撕逼
