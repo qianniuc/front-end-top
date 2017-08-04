@@ -11,4 +11,4 @@
 ### 12月
 * 真阿当与尤雨溪、玉伯、贺师俊、winter、司徒正美、月影等众牛撕逼
     - 真阿当 [2016年前端技术观察](http://geek.csdn.net/news/detail/128912)
-    - [如何评价真阿当的文章：《2016年前端技术观察》？](https://zhuanlan.zhihu.com/p/28284087)
+    - [如何评价真阿当的文章：《2016年前端技术观察》？](https://www.zhihu.com/question/53625757)
