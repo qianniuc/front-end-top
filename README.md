@@ -1,6 +1,6 @@
 # 前端头条
-## 2017
-### 8月
+专注前端事件，新闻，不定期更新
+### 2017年8月
 * Angular布道者大漠穷秋与Vue框架创建者尤雨溪撕逼大战
     - 大漠穷秋 [Angular有哪些地方比Vue更优秀？](https://zhuanlan.zhihu.com/p/28259790)
     - 尤雨溪 [回应『Angular有哪些地方比Vue更优秀？』](https://zhuanlan.zhihu.com/p/28284087)
