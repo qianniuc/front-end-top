@@ -7,6 +7,9 @@
     - 尤雨溪 [回应『Angular有哪些地方比Vue更优秀？』](https://zhuanlan.zhihu.com/p/28284087)
     - 大漠穷秋 [为什么只会Vue的都是前端小白？](https://zhuanlan.zhihu.com/p/28282605)
     - 尤雨溪 wow, just wow
+    - 大漠穷秋 [致歉信](https://zhuanlan.zhihu.com/p/28343146)
+    - [如何评价尤雨溪向大漠穷秋的领导就Vue与Angular"争论"的举报？](https://www.zhihu.com/question/63402685/answer/209092501)    
+    - [如何看待大漠穷秋离职并且删完专栏中所有文章？](https://www.zhihu.com/question/63482139)
 ### 7月
 * 2017 JavaScript中国开发者大会
     - [演讲文档](http://2017.jsconf.cn/#schedule)
